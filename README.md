@@ -1,3 +1,3 @@
 # tugas10Arkademy
-![Screenshot](ssArkademy.png)
-![Screenshot](ssArkademy.png)
+![Screenshot](ssArkademy.PNG)
+![Screenshot](screenshot.png)
